@@ -1,0 +1,32 @@
+export const experiences = [
+  {
+    role: 'Java Developer Intern',
+    company: 'Sentrex Consultancy',
+    duration: 'April 2026 – August 2026',
+    location: 'Remote',
+    type: 'Internship',
+    responsibilities: [
+      'Developed backend modules using Java, Spring Boot, Hibernate, and MySQL for web-based applications.',
+      'Designed and implemented REST APIs for communication between frontend and backend services.',
+      'Wrote unit and integration tests using JUnit and Mockito to improve code reliability.',
+      'Implemented CRUD operations, authentication, and database connectivity using Spring Data JPA and JDBC.',
+      'Worked with AWS CloudFormation for consistent and repeatable infrastructure provisioning.',
+      'Participated in code reviews and Agile development practices.',
+      'Managed application data using MySQL while maintaining data consistency and integrity.',
+      'Used Git, Postman, and IntelliJ IDEA in daily development workflows.',
+    ],
+    technologies: [
+      'Java',
+      'Spring Boot',
+      'Hibernate',
+      'MySQL',
+      'JPA',
+      'JDBC',
+      'JUnit',
+      'Mockito',
+      'AWS',
+      'Git',
+      'Postman',
+    ],
+  },
+];
