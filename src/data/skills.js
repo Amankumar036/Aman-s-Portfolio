@@ -14,7 +14,7 @@ export const skillCategories = [
     icon: 'Boxes',
     skills: [
       { name: 'Spring Boot', level: 85 },
-      { name: 'Hibernate', level: 78 },
+      { name: 'Hibernate/JPA', level: 78 },
       { name: 'Spring Security', level: 75 },
       { name: 'Spring Data JPA', level: 78 },
       { name: 'React.js', level: 68 },
