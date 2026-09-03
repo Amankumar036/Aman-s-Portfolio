@@ -60,7 +60,7 @@ const Resume = () => {
             </motion.div>
 
             <p className="mt-4 text-xs text-gray-600 font-mono">
-              Resume: /Aman_Kr_Resume_.pdf
+              Resume: /assets/Aman_Kr_Resume_.pdf
             </p>
           </div>
         </motion.div>

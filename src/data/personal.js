@@ -10,7 +10,7 @@ export const personal = {
   email: 'amansharma844121@gmail.com',
   linkedin: 'https://linkedin.com/in/amankumar036',
   github: 'https://github.com/Amankumar036',
-  resumeUrl: '/Aman_Kr_Resume_.pdf',
+  resumeUrl: '/assets/Aman_Kr_Resume_.pdf',
 };
 
 export const aboutSummary =
