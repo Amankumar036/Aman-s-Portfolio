@@ -46,7 +46,12 @@ const Resume = () => {
               transition={{ delay: 0.2 }}
               className="mt-8 flex flex-wrap justify-center gap-3"
             >
-              <Button as="a" href={personal.resumeUrl} icon={FileDown}>
+              <Button
+                as="a"
+                href={personal.resumeUrl}
+                download="Aman_Kumar_Resume.pdf"
+                icon={FileDown}
+              >
                 Download Resume
               </Button>
               <Button as="a" href="#contact" variant="secondary" icon={Mail}>

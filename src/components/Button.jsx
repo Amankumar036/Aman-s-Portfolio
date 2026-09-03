@@ -13,6 +13,7 @@ const Button = ({
   variant = 'primary',
   as = 'button',
   href,
+  download,
   onClick,
   type = 'button',
   className = '',
@@ -39,6 +40,7 @@ const Button = ({
     return (
       <motion.a
         href={href}
+        download={download}
         target={href?.startsWith('http') ? '_blank' : undefined}
         rel={href?.startsWith('http') ? 'noopener noreferrer' : undefined}
         className={`${base} ${variants[variant]} ${className}`}
