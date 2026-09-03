@@ -49,7 +49,7 @@ const Resume = () => {
               <Button
                 as="a"
                 href={personal.resumeUrl}
-                download="Aman_Kumar_Resume.pdf"
+                download="Aman_Kr_Resume_.pdf"
                 icon={FileDown}
               >
                 Download Resume
@@ -60,7 +60,7 @@ const Resume = () => {
             </motion.div>
 
             <p className="mt-4 text-xs text-gray-600 font-mono">
-              Resume: /Aman_Kumar_Resume.pdf
+              Resume: /Aman_Kr_Resume_.pdf
             </p>
           </div>
         </motion.div>
